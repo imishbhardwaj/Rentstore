@@ -1,0 +1,250 @@
+<section class="GALLERY">
+    <div class="small-container">
+      <h1>Explore People</h1>
+      <h1>Skillful People</h1>
+      <div class="row">
+        <div class="GALLERY-COL">
+          <img src="css/10.jpg">
+          <h2>Sushila Kumar</h2>
+            <h2>Skills:Pottery</h2>
+        </div>
+        <div class="GALLERY-COL">
+          <img src="css/2.png">
+          <h2>Kamla Jain</h2>
+            <h2>Skills:Cooking</h2>
+        </div>
+        <div class="GALLERY-COL">
+          <img
+            src="css/5.png">
+          <h2>Beena Tiwari</h2>
+          <h2>Skills:Craftswomen</h2>
+        </div>
+      </div>
+      <div class="small-container">
+        <h1>Experienced People</h1>
+        <div class="row">
+          <div class="GALLERY-COL">
+            <img src="css/12.jpg">
+            <h2>Asha Dias</h2>
+            <h2>Skills:Teacher</h2>
+          </div>
+          
+          <div class="GALLERY-COL">
+            <img
+              src="css/3.png">
+              <h2>Meena Patil</h2>
+              <h2>Skills:Painter
+              </h2>
+          </div>
+          <div class="GALLERY-COL">
+            <img src="css/9.png">
+            <h2>Leena Wagh</h2>
+            <h2>Skills:Photographer</h2>
+          </div>
+          <div class="GALLERY-COL">
+            <img src="css/11.jpg">
+            <h2>Komal Bhuttan</h2>
+            <h2>Skills:Househelper</h2>
+
+          </div>
+
+          <div class="GALLERY-COL">
+            <img src="css/washing.png">
+            <h2>Komal Bhuttan</h2>
+            <h2>Skills:Househelper<h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="small-container">
+      <h2>Experienced Teachers</h2>
+      <div class="row">
+        <div class="GALLERY-COL">
+          <img
+            src="css/13.png">
+          <h2>Shital Revankar</h2>
+          <p>Skills:Teacher</p>
+        </div>
+        <div class="GALLERY-COL">
+          <img src="css/14.png">
+          <h2>Esha Fernandes</h2>
+          <p>Skills:Teacher</p>
+        </div>
+        <div class="GALLERY-COL">
+          <img
+            src="css/15.png">
+          <h2>Priya Patel</h2>
+          <p>Skills:Teacher</p>
+        </div>
+        <div class="GALLERY-COL">
+          <img src="css/16.png">
+          <h2>Reena Mehta
+
+          </h2>
+          <p>Skills:Teacher</p>
+        </div>
+      </div>
+    </div>
+    </div>
+      <section class="GALLERY">
+        <div class="small-container">
+          <h1>Explore Work</h1>
+          <h1>Skillful Work</h1>
+          <div class="row">
+            <div class="GALLERY-COL">
+              <img src="css/pottery 1.png">
+              <h2>Sushila Kumar</h2>
+              <h2>Skills:Pottery</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/cooking 1.png">
+              <h2>Kamla Jain</h2>
+              <h2>Skills:Cooking</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/pottery.png">
+              <h2>Beena Tiwari</h2>
+              <h2>Skills:Craftswomen</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/cleaning.png">
+              <h2>Komal Bhuttan</h2>
+              <h2>Skills:Househelper</h2>
+            </div>
+          </div>
+          <div class="small-container">
+            <h1>Experienced People</h1>
+            <div class="row">
+              <div class="GALLERY-COL">
+                <img src="css/teacher.png">
+                <h2>Asha Dias</h2>
+                <h2>Skills:Teacher</h2>
+              </div>
+              
+              <div class="GALLERY-COL">
+                <img src="css/painter.png">
+                <h2>Meena Patil</h2>
+                <h2>Skills:Painter</h2>
+              </div>
+              <div class="GALLERY-COL">
+                <img src="css/photo1.png">
+                <h2>Leena Wagh</h2>
+                <h2>Skills:Photographer</h2>
+              </div>
+              <div class="small-container">
+              
+              <div class="GALLERY-COL">
+                <img src="css/dish.png">
+                <h2>Komal Bhuttan</h2>
+                <h2>Skills:Househelper</h2>
+              </div>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="small-container">
+          <h2>Skilled People</h2>
+          <div class="row">
+            <div class="GALLERY-COL">
+              <img src="css/photographer.png">
+              <h2>Rohini Kamat</h2>
+              <h2>Skills:Photographer</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/care.png">
+              <h2>Khushi Wagh</h2>
+              <h2>Skills:Care Taker</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/baby care.png">
+              <h2>Kosha Mehta</h2>
+              <h2>Skills:Nany</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/pottery 1.png">
+              <h2>Seeta Jain   
+              </h2>
+              <h2>Skills:Pottery</h2>
+            </div>
+            </div>
+          
+            <div class="small-container">
+              <div class="row">
+            <div class="GALLERY-COL">
+              <img src="css/cooking.png">
+              <h2>Kamini Patel</h2>
+              <h2>Skills:Cooking</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/agri.png">
+              <h2>Revati Sentival</h2>
+              <h2>Skills:Farming</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/farming.png">
+              <h2>Seema Sawant</h2>
+              <h2>Skills:Farming</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/singer.png">
+              <h2>Veena Salvi</h2>
+              <h2>Skills:Singer</h2>
+            </div>
+          </div>
+          </div>
+          <div class="small-container">
+            <div class="row">
+              <div class="GALLERY-COL">
+                <img src="css/dancer.png">
+                <h2>Radhika Dinkar</h2>
+                <h2>Skills:Dancer</h2>
+              </div>
+          
+            <div class="GALLERY-COL">
+              <img src="css/guitar.png">
+              <h2>Yasmin Raut</h2>
+              <h2>Skills:Guitarist</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/sitar.png">
+              <h2>Poonam Hiraskar</h2>
+              <h2>Skills:Sitarist</h2>
+            </div>
+            
+            <div class="GALLERY-COL">
+              <img src="css/harmonium.png">
+              <h2>Premika Srivastav</h2>
+              <h2>Skills:Harmoniumist</h2>
+            </div>
+          </div>
+        </div>
+        <div class="small-container">
+          <div class="row">
+            <div class="GALLERY-COL">
+              <img src="css/tailor.png">
+              <h2>Disha Tiwari</h2>
+              <h2>Skills:Tailoring</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/iron.png">
+              <h2>Mehak Jain</h2>
+              <h2>Skills:Ironing</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/barber.png">
+              <h2>Shweta Singh</h2>
+              <h2>Skills:Barber</h2>
+            </div>
+            <div class="GALLERY-COL">
+              <img src="css/driver.png">
+              <h2>Litika Pawar</h2>
+              <h2>Skills:Driver</h2>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
